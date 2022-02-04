@@ -1,0 +1,37 @@
+Product-Name,Product-CostPrice,Product-SalesTax,Product-SalesTaxAmount,Product-FinalPrice,Country
+Earphones,500,10,50.0,550.0,India
+Blank Paper,5,10,0.5,5.5,India
+Card Board,10,10,1.0,11.0,India
+Origami Paper,10,10,1.0,11.0,India
+Newspaper,5,10,0.5,5.5,India
+Tissue,15,10,1.5,16.5,India
+Earphones,500,11,55.0,555.0,USA 
+Blank Paper,5,11,0.55,5.55,USA 
+Card Board,10,11,1.1,11.1,USA 
+Origami Paper,10,11,1.1,11.1,USA 
+Newspaper,5,11,0.55,5.55,USA 
+Tissue,15,11,1.65,16.65,USA 
+Earphones,500,5,25.0,525.0,Germany
+Blank Paper,5,5,0.25,5.25,Germany
+Card Board,10,5,0.5,10.5,Germany
+Origami Paper,10,5,0.5,10.5,Germany
+Newspaper,5,5,0.25,5.25,Germany
+Tissue,15,5,0.75,15.75,Germany
+Earphones,500,8,40.0,540.0,Brazil
+Blank Paper,5,8,0.4,5.4,Brazil
+Card Board,10,8,0.8,10.8,Brazil
+Origami Paper,10,8,0.8,10.8,Brazil
+Newspaper,5,8,0.4,5.4,Brazil
+Tissue,15,8,1.2,16.2,Brazil
+Earphones,500,6,30.0,530.0,Canada
+Blank Paper,5,6,0.3,5.3,Canada
+Card Board,10,6,0.6,10.6,Canada
+Origami Paper,10,6,0.6,10.6,Canada
+Newspaper,5,6,0.3,5.3,Canada
+Tissue,15,6,0.9,15.9,Canada
+Earphones,500,4,20.0,520.0,Russia
+Blank Paper,5,4,0.2,5.2,Russia
+Card Board,10,4,0.4,10.4,Russia
+Origami Paper,10,4,0.4,10.4,Russia
+Newspaper,5,4,0.2,5.2,Russia
+Tissue,15,4,0.6,15.6,Russia
